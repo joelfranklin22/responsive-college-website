@@ -1,7 +1,4 @@
-/* ===================================================
-   GCET - Responsive CSS
-   Replaces sample.css & sample1.css
-   =================================================== */
+
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -21,7 +18,6 @@ img {
 
 a:focus { color: rgb(19, 8, 172); }
 
-/* ---- COLLEGE NAME HEADER ---- */
 .college-name {
   background-color: #0870c0;
 }
@@ -60,9 +56,9 @@ a:focus { color: rgb(19, 8, 172); }
 .nav-inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 0 16px;
-  min-height: 60px;
+  justify-content: flex-end;
+  padding: 0 5px;
+  min-height: 50px;
 }
 
 .nav-links {
