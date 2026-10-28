@@ -30,7 +30,7 @@ responsive-college-website/
 ├── index.html
 ├── css/
 ├── js/
-├── images/
+├── assets/images
 └── README.md
 ```
 
@@ -43,10 +43,6 @@ git clone https://github.com/joelfranklin22/responsive-college-website.git
 ```
 
 Open `index.html` in your browser to view the website.
-
-## 📸 Screenshots
-
-Add project screenshots here.
 
 ## 👨‍💻 Author
 
