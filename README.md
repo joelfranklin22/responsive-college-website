@@ -1,53 +1,57 @@
-# Responsive College Website
+## Responsive College Website
 
-A responsive college website designed to present college information, academic programs, departments, facilities, and other important details through a clean and user-friendly interface.
+A responsive college website developed to showcase academic information, college events, staff details, and other essential information through a simple and user-friendly interface.
 
-## 🚀 Features
+## Features
 
-- 🏫 College home page
-- 📚 Academic programs
-- 🏢 Department information
-- 🎓 College facilities
-- 📱 Responsive design
-- 🧭 Easy navigation
-- 💻 User-friendly interface
+- Home page with college information
+- Academic details page
+- Events section
+- Staff information page
+- Contact page
+- Responsive layout
+- Navigation bar with JavaScript
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🎯 Purpose
-
-This project was created to practice frontend web development fundamentals and build a responsive website suitable for desktop, tablet, and mobile screens.
-
-## 📂 Project Structure
+## Folder Structure
 
 ```text
 responsive-college-website/
-│
+├── assets/
+│   └── Images/
+├── CSS/
+│   ├── responsive.css
+│   ├── sample.css
+│   ├── sample1.css
+│   └── style.css
+├── JS/
+│   ├── navbar.js
+│   └── sub_it.js
+├── Academic.html
+├── contact.html
+├── Events.html
 ├── index.html
-├── css/
-├── js/
-├── assets/images
+├── staffs.html
 └── README.md
 ```
 
-## 💻 Getting Started
+## Getting Started
 
-### Clone the repository
+1. Clone the repo
 
 ```bash
 git clone https://github.com/joelfranklin22/responsive-college-website.git
 ```
 
-Open `index.html` in your browser to view the website.
+2. Open `index.html` in your browser — no setup needed!
 
-## 👨‍💻 Author
 
-**Joel Franklin**
 
-BE Computer Science Graduate | Aspiring Full Stack Developer
+### Author
 
-GitHub: https://github.com/joelfranklin22
+**Joel Franklin J**
