@@ -2,6 +2,8 @@
 
 A responsive college website developed to showcase academic information, college events, staff details, and other essential information through a simple and user-friendly interface.
 
+#### Live demo : [gce-thanjavur-campus.netlify.app](https://gce-thanjavur-campus.netlify.app/)
+
 ## Features
 
 - Home page with college information
@@ -49,8 +51,6 @@ git clone https://github.com/joelfranklin22/responsive-college-website.git
 ```
 
 2. Open `index.html` in your browser — no setup needed!
-
-
 
 ### Author
 
